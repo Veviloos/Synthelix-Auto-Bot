@@ -1,5 +1,7 @@
 # Synthelix Auto Bot
 
+# Register [here](https://dashboard.synthelix.io/r/1loeGIEI)
+
 **Automated tool for managing Synthelix nodes across multiple wallets**
 
 ## 🌟 Features
